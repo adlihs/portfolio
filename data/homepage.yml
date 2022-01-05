@@ -180,36 +180,36 @@ client_and_work:
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Recommendations"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Stefan Jawnyj"
+      position: "Regional Chief Operating Officer, MBA, MSC"
+      content: "Great person to work with, has a high technical knowledge of Data Analysis and programming."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "https://media-exp1.licdn.com/dms/image/C4E03AQEs2sfm0FrfRw/profile-displayphoto-shrink_400_400/0/1545178451319?e=1646870400&v=beta&t=_3T9q3QLcPd5E2x3DtlWR6qgZLNrGHanVfrrwJC_ji8"
+        _2x: "https://media-exp1.licdn.com/dms/image/C4E03AQEs2sfm0FrfRw/profile-displayphoto-shrink_400_400/0/1545178451319?e=1646870400&v=beta&t=_3T9q3QLcPd5E2x3DtlWR6qgZLNrGHanVfrrwJC_ji8"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+    - name: "Samantha Kohkemper"
+      position: "Global HR Business Partner for Medical Devices"
+      content: "Edmund is a great professional, he always looked forward to achieve goals, focused on adding value to the company and demonstrated to be an specialist within his area of expertise. I'm sure you'll earn a great contributor for your team if you hire him."
       image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
+        x: "https://media-exp1.licdn.com/dms/image/C4D03AQEbcC_Vj0zl-g/profile-displayphoto-shrink_100_100/0/1582913867730?e=1646870400&v=beta&t=hUI4kj3pakpIcapD8w2I9LOzO7__No4cfcW-I6HgqK4"
+        _2x: "https://media-exp1.licdn.com/dms/image/C4D03AQEbcC_Vj0zl-g/profile-displayphoto-shrink_100_100/0/1582913867730?e=1646870400&v=beta&t=hUI4kj3pakpIcapD8w2I9LOzO7__No4cfcW-I6HgqK4"
 
     
 
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+    - name: "Ronald Rojas"
+      position: "Linkedin - Social Selling Coach"
+      content: "Edmund is a dedicated and committed business professional. He has an excellent vision to analyze and give tangible results, he is considered a Business Intelligence and Big Data specialist with great projection."
       image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
+        x: "https://media-exp1.licdn.com/dms/image/C4E03AQGnxELNERxfCw/profile-displayphoto-shrink_100_100/0/1638390824216?e=1646870400&v=beta&t=NPHw7HUB83GG1jCf0TUN1W7jRK6bvkfyneIdLYv61T4"
+        _2x: "https://media-exp1.licdn.com/dms/image/C4E03AQGnxELNERxfCw/profile-displayphoto-shrink_100_100/0/1638390824216?e=1646870400&v=beta&t=NPHw7HUB83GG1jCf0TUN1W7jRK6bvkfyneIdLYv61T4"
 
 # contact
 contact:
   enable: true
-  title: "Contact Matt"
+  title: "Contact Edmund"
     
   image:
     x: "img/who-am-i/user-picture-2.jpg"
@@ -218,14 +218,14 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
-    btnAction: 'mailto:your-email@gmail.com'
+    btnAction: 'mailto:edmondneil@gmail.com'
     
   phone:
     title: "Phone Number"
     number: "--"
   email:
     title: "Email"
-    email: '<a href="mailto:your-email@gmail.com">your-email@gmail.com</a>'
+    email: '<a href="mailto:edmondneil@gmail.com">edmondneil@gmail.com</a>'
   address:
     title: "Address"
     address: "--"
