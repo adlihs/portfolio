@@ -88,34 +88,30 @@ experience:
     URL: "/cv/resume-matt.pdf"
 
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Senior BI/Tableau Developer"
+      company: "Gorilla Logic"
+      duration: "Apr 2019 - Present"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "BI Integration Specialist"
+      company: "Millicom"
+      duration: "Apr 2015 - Apr 2019"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "BI Project Manager"
+      company: "Kimberly Clark"
+      duration: "Mar 2012 - Apr 2015"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Penn State University"
-      year: "2014-2015"
-      degree: "Master of Business Administration (MBA)"
-
-    - university: "University of Pittsburgh"
-      year: "2008-2010"
-      degree: "Master of Industrial Engineering"
+    - university: "John Hopkins University (Coursera)"
+      year: "2015-2016"
+      degree: "Data Science Specialization"
       
-    - university: "Penn State University"
-      year: "2002-2006"
-      degree: "Bachelor of Mechanical Engineering"
+    - university: "Universidad Hispanoamericana"
+      year: "2002-2010"
+      degree: "Bachelor of Systems Engineering"
 
 
 
