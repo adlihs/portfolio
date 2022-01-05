@@ -212,8 +212,9 @@ contact:
   title: "Contact Edmund"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "https://media-exp1.licdn.com/dms/image/C4E03AQFVW-2xyYSR8A/profile-displayphoto-shrink_400_400/0/1559085430217?e=1646870400&v=beta&t=pT7QEl3KWH4PpO8CEk_BsMxlKrnfeKyzuP4y5kTZwaU"
+    #"img/who-am-i/user-picture-2.jpg"
+    _2x: "https://media-exp1.licdn.com/dms/image/C4E03AQFVW-2xyYSR8A/profile-displayphoto-shrink_400_400/0/1559085430217?e=1646870400&v=beta&t=pT7QEl3KWH4PpO8CEk_BsMxlKrnfeKyzuP4y5kTZwaU"
     
   button:
     icon: "icon-mail-fill"
